@@ -1,2 +1,10 @@
 # PaulaNet-Short-Board
-PaulaNet (Rob Smith Dev) Compatible Hardware
+PaulaNet Compatible Hardware
+Amiga Disk Drive Port Wifi
+github.com/RobSmithDev
+
+Mod based on a design by buterrsoft.
+
+
+
+
