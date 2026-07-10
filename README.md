@@ -1,6 +1,6 @@
 # PaulaNet-Short-Board
 **PaulaNet** Compatible Hardware  
-for Amiga Disk Drive Port Wifi by Rob Smith Dev.  
+for **Amiga Disk Drive Port Wifi** by **Rob Smith Dev.**  
 [www.github.com/RobSmithDev](https://github.com/RobSmithDev)
 
 Mod based on a design by **butterrsoft**, with kind permission and support!
