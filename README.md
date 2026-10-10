@@ -5,6 +5,10 @@ Mod based on a design by **butterrsoft**, with kind permission and support!
 
 **Work in progress - not ready yet!**
 
+<img width="4096" height="3072" alt="1000459750" src="https://github.com/user-attachments/assets/979a98c5-74bf-4856-8414-ac582746dc50" />
+<img width="4096" height="3072" alt="1000459749" src="https://github.com/user-attachments/assets/2485b4f8-fa81-486d-b940-516c1cd9d99c" />
+
+
 <img width="1210" height="864" alt="A" src="https://github.com/user-attachments/assets/f4fca74a-4266-44f2-afa8-d213e56e258c" />
 
 <img width="1167" height="912" alt="B" src="https://github.com/user-attachments/assets/b28746f5-2916-4d11-84db-30d792a84411" />
