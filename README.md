@@ -14,6 +14,10 @@ Mod based on a design by **butterrsoft**, with kind permission and support!
 <img width="4096" height="3072" alt="1000460406" src="https://github.com/user-attachments/assets/2a93d70a-18c8-4889-9fae-59a2356823a1" />
 <img width="4096" height="3072" alt="1000460409" src="https://github.com/user-attachments/assets/fd05114f-3688-4008-97e7-834192796205" />
 <img width="4096" height="3072" alt="1000460410" src="https://github.com/user-attachments/assets/b9402077-e928-4c95-9f21-c9933d3882f4" />
+<img width="4096" height="3072" alt="1000460663" src="https://github.com/user-attachments/assets/d9169398-efd9-480e-8940-78f5fd661882" />
+<img width="4096" height="3072" alt="1000460666" src="https://github.com/user-attachments/assets/f594e7ce-6e7b-483f-a22c-ed3c31aef76a" />
+<img width="4096" height="3072" alt="1000460671" src="https://github.com/user-attachments/assets/8a876649-d94f-4f33-8400-e3c680e972e2" />
+
 
 
 
